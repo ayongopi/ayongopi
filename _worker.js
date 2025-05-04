@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "id6.dklongtong.xyz.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "id6.dklongtong.xyz.workersdev"; // Ganti dengan domain utama kalian
 const serviceName = "poci"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
